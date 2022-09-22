@@ -199,7 +199,7 @@ Please note that there is currently no way to open saved images in other graphic
 Currently, in order to do that, you must take a screenshot of the drawing using programs such as Lightshot.
 Also, please remember to add .pickle at the end of a file. Python sometimes doesnt do that.
 More options such as custom colors and size of the image soon!
-If you need any extra help, contact me on Discord: @xXx_Bain_xXx#1237''')
+If you need any extra help, contact me on Github!''')
 
 def aboutMenu():
     messagebox.showinfo("About","Pixel Paint program. Version 1.0. Created by @xXx_Bain_xXx#1237, aka SP4R0W")
