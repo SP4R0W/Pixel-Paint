@@ -13,7 +13,7 @@ A modern and improved version of the program exists here: https://github.com/SP4
 ### Getting Started
 -------------
 To compile this project, you will need at least Python 3.7.4.<br> 
-Do not forget you will need Tkinter library (install in terminal or cmd with pip install tkinter). <br>
+Do not forget you will need Tkinter library (I think it's installed by default with python, but use pip to install it if you don't have it). <br>
 You're free to modify the project as you wish.
 
 ### Preview
