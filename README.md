@@ -1,9 +1,6 @@
 # Pixel-Paint
 This is a program written in Tkinter which allows you to create art using Tkinter buttons.
 
-# Pixel-Paint
-This is a program written in Tkinter which allows you to create art using Tkinter buttons.
-
 ### About
 -------------
 This was my first program made with Tkinter. I don't remember when it was first created, but is very simple. You can create a canvas of different sizes and draw art by clicking on buttons. <br>
